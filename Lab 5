@@ -37,13 +37,13 @@ def delete_user(id):
 
 
 def main():
-    #insert_value(13,'Валерия','vvfvfv@mail.ru')
-    #insert_value(14, 'Владислав', 'vvfvfv@mail.ru')
-    #insert_value(15, 'Николай', 'vvfvfv@mail.ru')
-    #insert_value(17, 'Алексей', 'vvfvfv@mail.ru')
-    #insert_value(18, 'Николай', 'vvfvfv@mail.ru')
-    #insert_value(19, 'Виктория', 'vvfvfv@mail.ru')
-    #insert_value(20, 'Юлия', 'vvfvfv@mail.ru')
+    #insert_value(13,'Валерия','qwerty@mail.ru')
+    #insert_value(14, 'Владислав', 'asdfgh@mail.ru')
+    #insert_value(15, 'Николай', 'zxcvbn@mail.ru')
+    #insert_value(17, 'Алексей', 'poiuyt@mail.ru')
+    #insert_value(18, 'Николай', 'mnbvcx@mail.ru')
+    #insert_value(19, 'Виктория', 'jhgfds@mail.ru')
+    #insert_value(20, 'Юлия', 'edcrfv@mail.ru')
     select_func()
     select_user(13)
     #delete_user(13)
